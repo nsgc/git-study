@@ -1,2 +1,2 @@
-git-study
+Git-Study
 =========
